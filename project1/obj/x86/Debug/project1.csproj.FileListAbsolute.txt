@@ -1,0 +1,22 @@
+c:\users\zain\documents\visual studio 2010\Projects\project1\project1\bin\Debug\project1.exe
+c:\users\zain\documents\visual studio 2010\Projects\project1\project1\bin\Debug\project1.pdb
+c:\users\zain\documents\visual studio 2010\Projects\project1\project1\obj\x86\Debug\project1.Form1.resources
+c:\users\zain\documents\visual studio 2010\Projects\project1\project1\obj\x86\Debug\project1.Properties.Resources.resources
+c:\users\zain\documents\visual studio 2010\Projects\project1\project1\obj\x86\Debug\project1.csproj.GenerateResource.Cache
+c:\users\zain\documents\visual studio 2010\Projects\project1\project1\obj\x86\Debug\project1.exe
+c:\users\zain\documents\visual studio 2010\Projects\project1\project1\obj\x86\Debug\project1.pdb
+c:\users\zain\documents\visual studio 2010\Projects\project1\project1\obj\x86\Debug\project1.Form2.resources
+c:\users\zain\documents\visual studio 2010\Projects\project1\project1\obj\x86\Debug\project1.Form3.resources
+c:\users\zain\documents\visual studio 2010\Projects\project1\project1\obj\x86\Debug\project1.Form4.resources
+c:\users\zain\documents\visual studio 2010\Projects\project1\project1\bin\Debug\project1.exe.config
+C:\Users\zain\documents\visual studio 2010\Projects\project1\project1\obj\x86\Debug\project1.csprojResolveAssemblyReference.cache
+C:\Users\zain\documents\visual studio 2010\Projects\project1\project1\bin\Debug\project1.exe.manifest
+C:\Users\zain\documents\visual studio 2010\Projects\project1\project1\bin\Debug\project1.application
+C:\Users\zain\documents\visual studio 2010\Projects\project1\project1\obj\x86\Debug\project1.exe.manifest
+C:\Users\zain\documents\visual studio 2010\Projects\project1\project1\obj\x86\Debug\project1.application
+D:\project1\project1\bin\Debug\project1.exe.config
+D:\project1\project1\obj\x86\Debug\project1.exe
+D:\project1\project1\obj\x86\Debug\project1.pdb
+C:\Users\zaina\OneDrive\שולחן העבודה\project1\project1\bin\Debug\project1.exe.config
+C:\Users\zaina\OneDrive\שולחן העבודה\project1\project1\obj\x86\Debug\project1.exe
+C:\Users\zaina\OneDrive\שולחן העבודה\project1\project1\obj\x86\Debug\project1.pdb
